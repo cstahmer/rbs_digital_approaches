@@ -1,10 +1,10 @@
 ---
-title: YOUR WORKSHOP TITLE
-author: [YOUR NAME]
+title: Digital Approaches to Bibliography and Book History
+author: Ben Pauley and Carl Stahmer
 date: "`r Sys.Date()`"
 
-github-repo: ucdavisdatalab/YOUR_REPO
-url: "https://ucdavisdatalab.github.io/YOUR_REPO/"
+github-repo: cstahmer/rbs_digital_approaches
+url: "https://cstahmer.github.io/rbs_digital_approaches/"
 
 site: "bookdown::bookdown_site"
 knit: "bookdown::render_book"
@@ -13,10 +13,10 @@ output:
     config:
       toc:
         before: |
-          <li><a href="https://datalab.ucdavis.edu/">
-            <img src="https://datalab.ucdavis.edu/wp-content/uploads/2019/07/datalab-logo-full-color-rgb-1.png" style="height: 100%; width: 100%; object-fit: contain" />
+          <li><a href="https://rarebookschool.org/">
+            <img src="https://cstahmer.github.io/rbs_digital_approaches/img/rbs_logo.png" style="height: 100%; width: 100%; object-fit: contain" />
           </a></li>
-          <li><a href="./" style="font-size: 18px">YOUR WORKSHOP TITLE</a></li>
+          <li><a href="./" style="font-size: 18px">Digital Approaches to Bibliography and Book History</a></li>
         after: |
           <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
             <img alt="CC BY-SA 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" style="float: right; padding-right: 10px;" />
@@ -29,4 +29,10 @@ output:
 
 # Overview {-}
 
-YOUR DESCRIPTION, LEARNING GOALS, PREREQUISITES, ETC
+This companion course reader serves as a reference for the coding section of the Rare Book School L-100 Digital Approaches to Bibliograpy and Book History course taught by Ben Pauley and Carl Stahmer.  The course explores the possibilities that digital tools and methods open for the pursuit of bibliographical and book-historical investigations, as well as the questions that those tools and methods bring with them. Beyond providing a practical introduction to digital bibliography, the class will also invite critical reflection on its affordances and limitations. A central concern of the course will be the consideration of the kinds of bibliographical and book historical problems that digital methods may be best positioned to address now and in the future.
+
+This course is intended for humanities scholars as well as librarians and curators. It is addressed to researchers who wish to become intelligent users of digital tools and methods, librarians who aim to support and manage digital workflows, and archivists and developers who seek to create new kinds of resources.
+
+While the course ventures into technical areas, it does not presume any specialist expertise in either bibliography or coding.
+
+
